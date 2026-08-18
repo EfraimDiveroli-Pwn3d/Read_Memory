@@ -1,0 +1,9 @@
+/readmem
+/dist/
+/tests/readmem-test-target
+*.jsonl
+*.state
+*.state.lock
+*.tmp.*
+*.nativecodeanalysis.xml
+*.txt
